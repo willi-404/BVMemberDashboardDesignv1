@@ -1,0 +1,10 @@
+{
+  "description": "Manage your badminton club effortlessly with a mobile-first dashboard featuring event updates, registration tracking, and quick actions for members.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
